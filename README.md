@@ -3,4 +3,4 @@
 ## Test performed using the insomnia app
 ![test performed using the insomnia app](images/Insomnia_GET.png)
 ---
-**URL:** <https://tests.snakecase10.repl.co>
+**URL:** <https://dollarapi.snakecase10.repl.co>
