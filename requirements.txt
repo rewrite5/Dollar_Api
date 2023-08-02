@@ -11,4 +11,4 @@ requests==2.28.2
 soupsieve==2.4.1
 urllib3==1.26.15
 Werkzeug==2.2.3
-gunicorn==21.2.0
+Gunicorn==21.2.0
